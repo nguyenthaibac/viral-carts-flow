@@ -1,47 +1,44 @@
 name: Weekly Trending Products Update
 
-# ───────────────────────────────────────────────────────────
-# Runs every Monday at 8:00 AM UTC (≈ 6 PM Melbourne / 7 PM Sydney)
-# Also runnable manually from the GitHub Actions tab
-# ───────────────────────────────────────────────────────────
 on:
   schedule:
-    - cron: '0 8 * * 1'    # Every Monday 08:00 UTC
-  workflow_dispatch:        # Allows manual "Run workflow" button
+    - cron: '0 8 * * 1'
+  workflow_dispatch:
 
 permissions:
-  contents: write           # Lets the workflow commit updated JSON back to repo
+  contents: write
 
 jobs:
   refresh-and-upload:
     runs-on: ubuntu-latest
     env:
-      # Forces standard actions (checkout, upload-artifact) to use Node 24, fixing the deprecation warning
       FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true 
     steps:
-      # ─────────────────────────────────────────────────────
-      # STEP 1: Check out the repo
-      # ─────────────────────────────────────────────────────
       - name: Check out repository
         uses: actions/checkout@v4
 
-      # ─────────────────────────────────────────────────────
-      # STEP 2: Set up Node.js
-      # ─────────────────────────────────────────────────────
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '24' # Updated from 20 to 24
+          node-version: '24'
+          # CRITICAL: If you use a package-lock.json, this caches your deps
+          cache: 'npm' 
 
       # ─────────────────────────────────────────────────────
-      # STEP 3: Refresh the trending products data
+      # NEW STEP: Install Dependencies
       # ─────────────────────────────────────────────────────
+      - name: Install dependencies
+        run: |
+          if [ -f package.json ]; then
+            npm install
+          else
+            echo "No package.json found, skipping npm install"
+          fi
+
       - name: Refresh trending products
+        # Logic check: If refresh-trends.js is in a folder, use node folder/refresh-trends.js
         run: node refresh-trends.js
 
-      # ─────────────────────────────────────────────────────
-      # STEP 4: Commit any changes back to the repo
-      # ─────────────────────────────────────────────────────
       - name: Commit updated products
         run: |
           git config user.name "github-actions[bot]"
@@ -51,28 +48,22 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "chore: weekly trending products refresh ($(date +%Y-%m-%d))"
-            #Pull the latest changes and rebase your commit on top of them
             git pull --rebase origin main
             git push
           fi
 
-      # ─────────────────────────────────────────────────────
-      # STEP 5: Upload the refreshed products to Shopify
-      # ─────────────────────────────────────────────────────
       - name: Upload to Shopify
         env:
           SHOPIFY_STORE: ${{ secrets.SHOPIFY_STORE }}
           SHOPIFY_ACCESS_TOKEN: ${{ secrets.SHOPIFY_ACCESS_TOKEN }}
+        # Logic check: Ensure flow.js exists in the root directory
         run: node flow.js
 
-      # ─────────────────────────────────────────────────────
-      # STEP 6: Save the run log as an artifact (for debugging)
-      # ─────────────────────────────────────────────────────
       - name: Upload run log artifact
         if: always()
         uses: actions/upload-artifact@v4
         with:
           name: run-log-${{ github.run_id }}
           path: run-log-*.json
-          if-no-files-found: warn # Prevents the workflow from failing if the log file isn't generated
+          if-no-files-found: warn
           retention-days: 30
