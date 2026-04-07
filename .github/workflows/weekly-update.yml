@@ -1,1 +1,72 @@
+name: Weekly Trending Products Update
 
+# ───────────────────────────────────────────────────────────
+# Runs every Monday at 8:00 AM UTC (≈ 6 PM Melbourne / 7 PM Sydney)
+# Also runnable manually from the GitHub Actions tab
+# ───────────────────────────────────────────────────────────
+on:
+  schedule:
+    - cron: '0 8 * * 1'    # Every Monday 08:00 UTC
+  workflow_dispatch:        # Allows manual "Run workflow" button
+
+permissions:
+  contents: write           # Lets the workflow commit updated JSON back to repo
+
+jobs:
+  refresh-and-upload:
+    runs-on: ubuntu-latest
+    steps:
+      # ─────────────────────────────────────────────────────
+      # STEP 1: Check out the repo
+      # ─────────────────────────────────────────────────────
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      # ─────────────────────────────────────────────────────
+      # STEP 2: Set up Node.js
+      # ─────────────────────────────────────────────────────
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      # ─────────────────────────────────────────────────────
+      # STEP 3: Refresh the trending products data
+      # ─────────────────────────────────────────────────────
+      - name: Refresh trending products
+        run: node refresh-trends.js
+
+      # ─────────────────────────────────────────────────────
+      # STEP 4: Commit any changes back to the repo
+      # ─────────────────────────────────────────────────────
+      - name: Commit updated products
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add trending-products.json
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: weekly trending products refresh ($(date +%Y-%m-%d))"
+            git push
+          fi
+
+      # ─────────────────────────────────────────────────────
+      # STEP 5: Upload the refreshed products to Shopify
+      # ─────────────────────────────────────────────────────
+      - name: Upload to Shopify
+        env:
+          SHOPIFY_STORE: ${{ secrets.SHOPIFY_STORE }}
+          SHOPIFY_ACCESS_TOKEN: ${{ secrets.SHOPIFY_ACCESS_TOKEN }}
+        run: node flow.js
+
+      # ─────────────────────────────────────────────────────
+      # STEP 6: Save the run log as an artifact (for debugging)
+      # ─────────────────────────────────────────────────────
+      - name: Upload run log artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: run-log-${{ github.run_id }}
+          path: run-log-*.json
+          retention-days: 30
