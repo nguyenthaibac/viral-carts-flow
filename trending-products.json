@@ -13,232 +13,464 @@
       "Skailama AU eCommerce trends report",
       "FindNiche TikTok Shop 2026 data"
     ],
-    "notes": "Costs reflect typical AliExpress / CJ Dropshipping / Zendrop supplier prices for AU fulfilment in early 2026. Retail price = cost × 2 for a 50% gross margin (before fees, ads, shipping). Compare-at price adds ~30% on top of retail to create a visible discount anchor."
+    "notes": "Costs reflect typical AliExpress / CJ Dropshipping / Zendrop supplier prices for AU fulfilment in early 2026. Retail price = cost × 2 for a 50% gross margin (before fees, ads, shipping). Compare-at price adds ~30% on top of retail to create a visible discount anchor.",
+    "last_refresh_week": "2026-15"
   },
-
   "products": [
     {
       "rank": 1,
       "title": "LED Galaxy Projector 360",
       "why_trending": "Breakout hit in Q1 2026 — $15 LED galaxy projectors drove 10K+ orders in 2 weeks from viral TikTok bedroom glow-up content. 2.5B+ #WaterTok-style views on room-ambience content.",
       "category": "Home Decor / Lighting",
-      "source_cost_aud": 22.00,
-      "retail_price_aud": 49.00,
-      "compare_at_price_aud": 79.00,
+      "source_cost_aud": 23.5,
+      "retail_price_aud": 47,
+      "compare_at_price_aud": 75,
       "vendor": "Viral Carts",
       "productType": "Home Decor",
-      "tags": ["trending", "viral-on-tiktok", "bestseller", "new-arrival"],
+      "tags": [
+        "trending",
+        "viral-on-tiktok",
+        "bestseller",
+        "new-arrival"
+      ],
       "descriptionHtml": "<p>Turn any room into a planetarium. Project a starfield, nebula, and Northern Lights across your ceiling and walls with 16 million colours and 14 projection modes. The ultimate bedroom glow-up — as seen on TikTok with 10K+ orders in the first two weeks of 2026.</p><ul><li>16 million colours + 14 dynamic projection modes</li><li>Bluetooth speaker with 360° sound</li><li>Voice activation + remote control</li><li>App control (iOS & Android)</li><li>Built-in sleep timer (1h / 2h / 4h)</li><li>USB powered — works with any adapter</li></ul><p><strong>Perfect for:</strong> Bedrooms, streaming setups, parties, ambient lighting</p>",
       "images": [
         "https://images.unsplash.com/photo-1634986666676-ec8fd927c23d?w=800",
         "https://images.unsplash.com/photo-1518709766631-a6a7f45921c3?w=800"
       ],
-      "options": [{ "name": "Title", "values": ["Default Title"] }],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
       "variants": [
-        { "options": ["Default Title"], "sku": "GP360-AU", "inventory": 150 }
+        {
+          "options": [
+            "Default Title"
+          ],
+          "sku": "GP360-AU",
+          "inventory": 150
+        }
       ]
     },
-
     {
       "rank": 2,
       "title": "Hydration Tracker Water Bottle 1L",
       "why_trending": "#WaterTok has 2.5B+ views. Reusable water bottle category worth $9.72B globally in 2024, projected to $15.27B by 2034. Stanley + Memobottle-style bottles are fashion accessories in AU, not fitness gear.",
       "category": "Health & Wellness",
-      "source_cost_aud": 18.50,
-      "retail_price_aud": 42.00,
-      "compare_at_price_aud": 69.00,
+      "source_cost_aud": 20.03,
+      "retail_price_aud": 40,
+      "compare_at_price_aud": 64,
       "vendor": "Viral Carts",
       "productType": "Drinkware",
-      "tags": ["trending", "bestseller", "high-demand"],
+      "tags": [
+        "trending",
+        "bestseller",
+        "high-demand"
+      ],
       "descriptionHtml": "<p>The smart water bottle that tracks your hydration and reminds you to drink. 1L capacity with time-based hydration markers, LED reminder, and leak-proof design. As featured on #WaterTok.</p><ul><li>1 litre capacity with hourly hydration markers</li><li>LED glow reminder every 2 hours</li><li>BPA-free Tritan construction</li><li>Leak-proof flip-lock lid</li><li>Keeps cold for 24 hours, hot for 12 hours</li><li>Carry strap included</li></ul><p><strong>Perfect for:</strong> Gym, office, travel, hiking</p>",
       "images": [
         "https://images.unsplash.com/photo-1523362628745-0c100150b504?w=800",
         "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=800"
       ],
-      "options": [{ "name": "Colour", "values": ["Matte Black", "Sage Green", "Sky Blue", "Blush Pink"] }],
+      "options": [
+        {
+          "name": "Colour",
+          "values": [
+            "Matte Black",
+            "Sage Green",
+            "Sky Blue",
+            "Blush Pink"
+          ]
+        }
+      ],
       "variants": [
-        { "options": ["Matte Black"], "sku": "HTWB-BLK", "inventory": 80 },
-        { "options": ["Sage Green"], "sku": "HTWB-SAG", "inventory": 60 },
-        { "options": ["Sky Blue"], "sku": "HTWB-BLU", "inventory": 60 },
-        { "options": ["Blush Pink"], "sku": "HTWB-PNK", "inventory": 70 }
+        {
+          "options": [
+            "Matte Black"
+          ],
+          "sku": "HTWB-BLK",
+          "inventory": 80
+        },
+        {
+          "options": [
+            "Sage Green"
+          ],
+          "sku": "HTWB-SAG",
+          "inventory": 60
+        },
+        {
+          "options": [
+            "Sky Blue"
+          ],
+          "sku": "HTWB-BLU",
+          "inventory": 60
+        },
+        {
+          "options": [
+            "Blush Pink"
+          ],
+          "sku": "HTWB-PNK",
+          "inventory": 70
+        }
       ]
     },
-
     {
       "rank": 3,
       "title": "LED Red Light Therapy Face Mask",
       "why_trending": "One viral LED mask garnered ~1M 5-star reviews on TikTok. Korean skincare + beauty tech is #1 growth category in AU (Shopify AU trends 2026). Amazon.com.au bestsellers consistently feature skincare tech.",
       "category": "Beauty Tech",
-      "source_cost_aud": 45.00,
-      "retail_price_aud": 99.00,
-      "compare_at_price_aud": 159.00,
+      "source_cost_aud": 47.09,
+      "retail_price_aud": 94,
+      "compare_at_price_aud": 150,
       "vendor": "Viral Carts",
       "productType": "Beauty Tech",
-      "tags": ["trending", "viral-on-tiktok", "staff-pick", "new-arrival"],
+      "tags": [
+        "trending",
+        "viral-on-tiktok",
+        "staff-pick",
+        "new-arrival"
+      ],
       "descriptionHtml": "<p>Salon-grade LED therapy at home. Red light (630nm) stimulates collagen for anti-ageing, blue light (415nm) targets acne, and combined therapy reduces fine lines and inflammation. The beauty tech device everyone on TikTok is wearing.</p><ul><li>Red + blue + combined light therapy modes</li><li>180 clinical-grade LEDs</li><li>Rechargeable — 10 treatments per charge</li><li>Silicone soft-touch comfort fit</li><li>FDA-cleared technology</li><li>10-minute treatment sessions</li></ul><p><strong>Results in:</strong> 4–8 weeks of consistent use</p>",
       "images": [
         "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?w=800",
         "https://images.unsplash.com/photo-1616394584738-fc6e612e71b9?w=800"
       ],
-      "options": [{ "name": "Title", "values": ["Default Title"] }],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
       "variants": [
-        { "options": ["Default Title"], "sku": "LEDRT-MASK", "inventory": 50 }
+        {
+          "options": [
+            "Default Title"
+          ],
+          "sku": "LEDRT-MASK",
+          "inventory": 50
+        }
       ]
     },
-
     {
       "rank": 4,
-      "title": "Magnetic Levitating Moon Lamp",
-      "why_trending": "Viral TikTok aesthetic décor. Floating moon lamps rank in top 20 on Amazon.com.au Home Decor. Strong repeat purchase rate as gifts.",
-      "category": "Home Decor",
-      "source_cost_aud": 35.00,
-      "retail_price_aud": 79.00,
-      "compare_at_price_aud": 129.00,
-      "vendor": "Viral Carts",
-      "productType": "Home Decor",
-      "tags": ["trending", "viral-on-tiktok", "bestseller"],
-      "descriptionHtml": "<p>A 3D-printed moon that floats above its wooden base using magnetic levitation, with touch-controlled warm white light. The aesthetic centrepiece every TikTok room needs.</p><ul><li>Genuine magnetic levitation (no strings, no tricks)</li><li>Touch dimmer with 3 brightness modes</li><li>Wireless power transfer to the moon</li><li>3D-printed realistic lunar surface</li><li>Walnut wood base</li><li>Spin the moon — it glows while rotating</li></ul><p><strong>Makes a perfect gift for:</strong> Birthdays, housewarmings, Valentine's Day</p>",
-      "images": [
-        "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=800",
-        "https://images.unsplash.com/photo-1518352069049-5c8c0a3d0de4?w=800"
-      ],
-      "options": [{ "name": "Size", "values": ["4 inch", "6 inch"] }],
-      "variants": [
-        { "options": ["4 inch"], "sku": "LML-4IN-AU", "inventory": 60 },
-        { "options": ["6 inch"], "sku": "LML-6IN-AU", "inventory": 40 }
-      ]
-    },
-
-    {
-      "rank": 5,
       "title": "Wireless Neural Earbuds Pro",
       "why_trending": "Headphones/earbuds are Shopify AU top 20 products consistently. Knock-off AirPods Pro lookalikes dominate TikTok Shop AU with strong conversion.",
       "category": "Audio / Tech Accessories",
-      "source_cost_aud": 28.00,
-      "retail_price_aud": 59.00,
-      "compare_at_price_aud": 99.00,
+      "source_cost_aud": 28.06,
+      "retail_price_aud": 56,
+      "compare_at_price_aud": 90,
       "vendor": "Viral Carts",
       "productType": "Audio",
-      "tags": ["bestseller", "staff-pick", "trending"],
+      "tags": [
+        "bestseller",
+        "staff-pick",
+        "trending"
+      ],
       "descriptionHtml": "<p>Studio-grade sound. Active noise cancellation. AI-powered voice clarity. Wireless earbuds that deliver audiophile performance at a fraction of the brand-name price.</p><ul><li>Hybrid active noise cancellation (ANC)</li><li>40hr total battery with charging case</li><li>Bluetooth 5.3 with multi-point pairing</li><li>Wireless Qi charging case</li><li>IPX5 sweat & splash resistance</li><li>Touch controls + voice assistant</li></ul>",
       "images": [
         "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=800",
         "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?w=800"
       ],
-      "options": [{ "name": "Colour", "values": ["Midnight Black", "Pearl White"] }],
-      "variants": [
-        { "options": ["Midnight Black"], "sku": "NEP-BLK-AU", "inventory": 100 },
-        { "options": ["Pearl White"], "sku": "NEP-WHT-AU", "inventory": 80 }
-      ]
-    },
-
-    {
-      "rank": 6,
-      "title": "Electric Ice Roller Beauty Tool",
-      "why_trending": "Ice rollers saw 'significant traction' in AU per 2025 TikTok Shop data. Beauty tools / at-home skincare devices are #1 on Amazon.com.au beauty bestsellers.",
-      "category": "Beauty Tools",
-      "source_cost_aud": 14.00,
-      "retail_price_aud": 32.00,
-      "compare_at_price_aud": 54.00,
-      "vendor": "Viral Carts",
-      "productType": "Beauty",
-      "tags": ["trending", "viral-on-tiktok", "new-arrival"],
-      "descriptionHtml": "<p>Reduce puffiness, tighten pores, and boost circulation with this cooling ice-roller massage tool. The 5-minute morning routine everyone on #SkinTok swears by.</p><ul><li>Stainless steel cooling head</li><li>Reduces eye puffiness & under-eye bags</li><li>Tightens pores and calms redness</li><li>Ergonomic grip handle</li><li>Use on face, neck, and décolletage</li><li>Just freeze for 2 hours before use</li></ul>",
-      "images": [
-        "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=800"
+      "options": [
+        {
+          "name": "Colour",
+          "values": [
+            "Midnight Black",
+            "Pearl White"
+          ]
+        }
       ],
-      "options": [{ "name": "Colour", "values": ["Rose Gold", "Silver", "Matte Black"] }],
       "variants": [
-        { "options": ["Rose Gold"], "sku": "EIR-RGD", "inventory": 120 },
-        { "options": ["Silver"], "sku": "EIR-SLV", "inventory": 100 },
-        { "options": ["Matte Black"], "sku": "EIR-BLK", "inventory": 90 }
+        {
+          "options": [
+            "Midnight Black"
+          ],
+          "sku": "NEP-BLK-AU",
+          "inventory": 100
+        },
+        {
+          "options": [
+            "Pearl White"
+          ],
+          "sku": "NEP-WHT-AU",
+          "inventory": 80
+        }
       ]
     },
-
     {
-      "rank": 7,
-      "title": "Smart Posture Corrector Brace",
-      "why_trending": "Wellness and home-fitness boom in AU (7.5% CAGR per Skailama 2026 report). Smart wearable posture correctors viral on #ParentTok and WFH content.",
-      "category": "Health & Wellness",
-      "source_cost_aud": 16.50,
-      "retail_price_aud": 39.00,
-      "compare_at_price_aud": 65.00,
-      "vendor": "Viral Carts",
-      "productType": "Wellness",
-      "tags": ["trending", "new-arrival"],
-      "descriptionHtml": "<p>Train better posture in 14 days. Lightweight wearable device vibrates gently when you slouch, retraining your muscles for lasting posture improvement.</p><ul><li>Smart vibration feedback when slouching</li><li>Rechargeable — 10 days per charge</li><li>Lightweight (20g) — wear under clothing</li><li>Companion app tracks progress</li><li>Suitable for desk workers and students</li><li>Unisex design</li></ul><p><strong>Perfect for:</strong> WFH professionals, students, gamers</p>",
-      "images": [
-        "https://images.unsplash.com/photo-1599058917212-d750089bc07e?w=800"
-      ],
-      "options": [{ "name": "Title", "values": ["Default Title"] }],
-      "variants": [
-        { "options": ["Default Title"], "sku": "SPCB-1", "inventory": 85 }
-      ]
-    },
-
-    {
-      "rank": 8,
-      "title": "Mini Handheld Vacuum USB-C",
-      "why_trending": "#CleanTok category dominant on TikTok AU. 'The Pink Stuff' and portable cleaning tools drove 312M+ views. Home gadgets consistently in Amazon.com.au top sellers.",
-      "category": "Home Gadgets",
-      "source_cost_aud": 19.00,
-      "retail_price_aud": 45.00,
-      "compare_at_price_aud": 75.00,
-      "vendor": "Viral Carts",
-      "productType": "Home Appliances",
-      "tags": ["trending", "bestseller", "viral-on-tiktok"],
-      "descriptionHtml": "<p>Pocket-sized power. 9000Pa suction cleans car interiors, keyboards, pet hair, and tight corners that regular vacuums miss. As seen on #CleanTok.</p><ul><li>9000Pa strong cyclonic suction</li><li>USB-C fast charging</li><li>30-minute runtime per charge</li><li>Washable HEPA filter</li><li>3 attachments (brush, crevice, extension)</li><li>Ultra-quiet (under 60dB)</li></ul><p><strong>Perfect for:</strong> Cars, keyboards, couches, pet hair, crumbs</p>",
-      "images": [
-        "https://images.unsplash.com/photo-1558317374-067fb5f30001?w=800"
-      ],
-      "options": [{ "name": "Colour", "values": ["White", "Black"] }],
-      "variants": [
-        { "options": ["White"], "sku": "MHV-WHT", "inventory": 95 },
-        { "options": ["Black"], "sku": "MHV-BLK", "inventory": 95 }
-      ]
-    },
-
-    {
-      "rank": 9,
+      "rank": 5,
       "title": "Interactive Pet Cat Laser Toy",
       "why_trending": "#PetTok massive community on TikTok AU. Interactive pet toys explicitly listed as hot-selling category in 2026 by Accio & Shopify AU reports.",
       "category": "Pet Supplies",
-      "source_cost_aud": 12.50,
-      "retail_price_aud": 29.00,
-      "compare_at_price_aud": 49.00,
+      "source_cost_aud": 13.15,
+      "retail_price_aud": 26,
+      "compare_at_price_aud": 42,
       "vendor": "Viral Carts",
       "productType": "Pet Toys",
-      "tags": ["trending", "new-arrival", "viral-on-tiktok"],
+      "tags": [
+        "trending",
+        "new-arrival",
+        "viral-on-tiktok"
+      ],
       "descriptionHtml": "<p>Keep your cat entertained for hours while you're out. Auto-rotating laser toy with 5 random patterns and built-in timer. Safe for cats and dogs.</p><ul><li>5 random laser movement patterns</li><li>Auto shut-off after 15 minutes (protects eyes)</li><li>USB rechargeable</li><li>Whisper-quiet operation</li><li>Adjustable base for floor or table use</li><li>Safe Class II laser (pet-safe)</li></ul>",
       "images": [
         "https://images.unsplash.com/photo-1574158622682-e40e69881006?w=800"
       ],
-      "options": [{ "name": "Title", "values": ["Default Title"] }],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
       "variants": [
-        { "options": ["Default Title"], "sku": "PLT-CAT", "inventory": 110 }
+        {
+          "options": [
+            "Default Title"
+          ],
+          "sku": "PLT-CAT",
+          "inventory": 110
+        }
       ]
     },
-
     {
-      "rank": 10,
+      "rank": 6,
       "title": "Toe Spacers Foot Alignment Set",
       "why_trending": "+155% month-over-month demand in AU (Accio 2025 data). Wellness/foot-health trend. Low-cost impulse purchase aligned with holistic health trend.",
       "category": "Health & Wellness",
-      "source_cost_aud": 9.50,
-      "retail_price_aud": 22.00,
-      "compare_at_price_aud": 36.00,
+      "source_cost_aud": 10.16,
+      "retail_price_aud": 20,
+      "compare_at_price_aud": 32,
       "vendor": "Viral Carts",
       "productType": "Wellness",
-      "tags": ["trending", "new-arrival", "high-demand"],
+      "tags": [
+        "trending",
+        "new-arrival",
+        "high-demand"
+      ],
       "descriptionHtml": "<p>Realign your toes, relieve foot pain, and improve balance. Soft medical-grade silicone toe spacers worn for 15–30 minutes a day — the wellness essential hiding in every runner's drawer.</p><ul><li>Medical-grade flexible silicone</li><li>Corrects toe alignment naturally</li><li>Relieves bunion & hammertoe discomfort</li><li>Improves foot posture and balance</li><li>Universal fit — adjustable design</li><li>Washable & reusable</li></ul><p><strong>Recommended use:</strong> 15 minutes per day, gradually increasing to 30–60 min</p>",
       "images": [
         "https://images.unsplash.com/photo-1580906855509-fc5c69ac1c7e?w=800"
       ],
-      "options": [{ "name": "Size", "values": ["Small", "Medium", "Large"] }],
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "Small",
+            "Medium",
+            "Large"
+          ]
+        }
+      ],
       "variants": [
-        { "options": ["Small"], "sku": "TSP-S", "inventory": 100 },
-        { "options": ["Medium"], "sku": "TSP-M", "inventory": 120 },
-        { "options": ["Large"], "sku": "TSP-L", "inventory": 90 }
+        {
+          "options": [
+            "Small"
+          ],
+          "sku": "TSP-S",
+          "inventory": 100
+        },
+        {
+          "options": [
+            "Medium"
+          ],
+          "sku": "TSP-M",
+          "inventory": 120
+        },
+        {
+          "options": [
+            "Large"
+          ],
+          "sku": "TSP-L",
+          "inventory": 90
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Electric Ice Roller Beauty Tool",
+      "why_trending": "Ice rollers saw 'significant traction' in AU per 2025 TikTok Shop data. Beauty tools / at-home skincare devices are #1 on Amazon.com.au beauty bestsellers.",
+      "category": "Beauty Tools",
+      "source_cost_aud": 15.13,
+      "retail_price_aud": 30,
+      "compare_at_price_aud": 48,
+      "vendor": "Viral Carts",
+      "productType": "Beauty",
+      "tags": [
+        "trending",
+        "viral-on-tiktok",
+        "new-arrival"
+      ],
+      "descriptionHtml": "<p>Reduce puffiness, tighten pores, and boost circulation with this cooling ice-roller massage tool. The 5-minute morning routine everyone on #SkinTok swears by.</p><ul><li>Stainless steel cooling head</li><li>Reduces eye puffiness & under-eye bags</li><li>Tightens pores and calms redness</li><li>Ergonomic grip handle</li><li>Use on face, neck, and décolletage</li><li>Just freeze for 2 hours before use</li></ul>",
+      "images": [
+        "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=800"
+      ],
+      "options": [
+        {
+          "name": "Colour",
+          "values": [
+            "Rose Gold",
+            "Silver",
+            "Matte Black"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "options": [
+            "Rose Gold"
+          ],
+          "sku": "EIR-RGD",
+          "inventory": 120
+        },
+        {
+          "options": [
+            "Silver"
+          ],
+          "sku": "EIR-SLV",
+          "inventory": 100
+        },
+        {
+          "options": [
+            "Matte Black"
+          ],
+          "sku": "EIR-BLK",
+          "inventory": 90
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Smart Posture Corrector Brace",
+      "why_trending": "Wellness and home-fitness boom in AU (7.5% CAGR per Skailama 2026 report). Smart wearable posture correctors viral on #ParentTok and WFH content.",
+      "category": "Health & Wellness",
+      "source_cost_aud": 16.82,
+      "retail_price_aud": 34,
+      "compare_at_price_aud": 54,
+      "vendor": "Viral Carts",
+      "productType": "Wellness",
+      "tags": [
+        "trending",
+        "new-arrival"
+      ],
+      "descriptionHtml": "<p>Train better posture in 14 days. Lightweight wearable device vibrates gently when you slouch, retraining your muscles for lasting posture improvement.</p><ul><li>Smart vibration feedback when slouching</li><li>Rechargeable — 10 days per charge</li><li>Lightweight (20g) — wear under clothing</li><li>Companion app tracks progress</li><li>Suitable for desk workers and students</li><li>Unisex design</li></ul><p><strong>Perfect for:</strong> WFH professionals, students, gamers</p>",
+      "images": [
+        "https://images.unsplash.com/photo-1599058917212-d750089bc07e?w=800"
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "options": [
+            "Default Title"
+          ],
+          "sku": "SPCB-1",
+          "inventory": 85
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Magnetic Levitating Moon Lamp",
+      "why_trending": "Viral TikTok aesthetic décor. Floating moon lamps rank in top 20 on Amazon.com.au Home Decor. Strong repeat purchase rate as gifts.",
+      "category": "Home Decor",
+      "source_cost_aud": 32.38,
+      "retail_price_aud": 65,
+      "compare_at_price_aud": 104,
+      "vendor": "Viral Carts",
+      "productType": "Home Decor",
+      "tags": [
+        "trending",
+        "viral-on-tiktok",
+        "bestseller"
+      ],
+      "descriptionHtml": "<p>A 3D-printed moon that floats above its wooden base using magnetic levitation, with touch-controlled warm white light. The aesthetic centrepiece every TikTok room needs.</p><ul><li>Genuine magnetic levitation (no strings, no tricks)</li><li>Touch dimmer with 3 brightness modes</li><li>Wireless power transfer to the moon</li><li>3D-printed realistic lunar surface</li><li>Walnut wood base</li><li>Spin the moon — it glows while rotating</li></ul><p><strong>Makes a perfect gift for:</strong> Birthdays, housewarmings, Valentine's Day</p>",
+      "images": [
+        "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=800",
+        "https://images.unsplash.com/photo-1518352069049-5c8c0a3d0de4?w=800"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "4 inch",
+            "6 inch"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "options": [
+            "4 inch"
+          ],
+          "sku": "LML-4IN-AU",
+          "inventory": 60
+        },
+        {
+          "options": [
+            "6 inch"
+          ],
+          "sku": "LML-6IN-AU",
+          "inventory": 40
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Mini Handheld Vacuum USB-C",
+      "why_trending": "#CleanTok category dominant on TikTok AU. 'The Pink Stuff' and portable cleaning tools drove 312M+ views. Home gadgets consistently in Amazon.com.au top sellers.",
+      "category": "Home Gadgets",
+      "source_cost_aud": 20.15,
+      "retail_price_aud": 40,
+      "compare_at_price_aud": 64,
+      "vendor": "Viral Carts",
+      "productType": "Home Appliances",
+      "tags": [
+        "trending",
+        "bestseller",
+        "viral-on-tiktok"
+      ],
+      "descriptionHtml": "<p>Pocket-sized power. 9000Pa suction cleans car interiors, keyboards, pet hair, and tight corners that regular vacuums miss. As seen on #CleanTok.</p><ul><li>9000Pa strong cyclonic suction</li><li>USB-C fast charging</li><li>30-minute runtime per charge</li><li>Washable HEPA filter</li><li>3 attachments (brush, crevice, extension)</li><li>Ultra-quiet (under 60dB)</li></ul><p><strong>Perfect for:</strong> Cars, keyboards, couches, pet hair, crumbs</p>",
+      "images": [
+        "https://images.unsplash.com/photo-1558317374-067fb5f30001?w=800"
+      ],
+      "options": [
+        {
+          "name": "Colour",
+          "values": [
+            "White",
+            "Black"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "options": [
+            "White"
+          ],
+          "sku": "MHV-WHT",
+          "inventory": 95
+        },
+        {
+          "options": [
+            "Black"
+          ],
+          "sku": "MHV-BLK",
+          "inventory": 95
+        }
       ]
     }
   ]
