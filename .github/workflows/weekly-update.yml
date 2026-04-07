@@ -51,6 +51,8 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "chore: weekly trending products refresh ($(date +%Y-%m-%d))"
+            #Pull the latest changes and rebase your commit on top of them
+            Git pull --rebase origin main
             git push
           fi
 
