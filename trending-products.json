@@ -22,9 +22,9 @@
       "title": "LED Galaxy Projector 360",
       "why_trending": "Breakout hit in Q1 2026 — $15 LED galaxy projectors drove 10K+ orders in 2 weeks from viral TikTok bedroom glow-up content. 2.5B+ #WaterTok-style views on room-ambience content.",
       "category": "Home Decor / Lighting",
-      "source_cost_aud": 23.5,
-      "retail_price_aud": 47,
-      "compare_at_price_aud": 75,
+      "source_cost_aud": 25.11,
+      "retail_price_aud": 50,
+      "compare_at_price_aud": 80,
       "vendor": "Viral Carts",
       "productType": "Home Decor",
       "tags": [
@@ -61,9 +61,9 @@
       "title": "Hydration Tracker Water Bottle 1L",
       "why_trending": "#WaterTok has 2.5B+ views. Reusable water bottle category worth $9.72B globally in 2024, projected to $15.27B by 2034. Stanley + Memobottle-style bottles are fashion accessories in AU, not fitness gear.",
       "category": "Health & Wellness",
-      "source_cost_aud": 20.03,
-      "retail_price_aud": 40,
-      "compare_at_price_aud": 64,
+      "source_cost_aud": 21.69,
+      "retail_price_aud": 43,
+      "compare_at_price_aud": 69,
       "vendor": "Viral Carts",
       "productType": "Drinkware",
       "tags": [
@@ -123,9 +123,9 @@
       "title": "LED Red Light Therapy Face Mask",
       "why_trending": "One viral LED mask garnered ~1M 5-star reviews on TikTok. Korean skincare + beauty tech is #1 growth category in AU (Shopify AU trends 2026). Amazon.com.au bestsellers consistently feature skincare tech.",
       "category": "Beauty Tech",
-      "source_cost_aud": 47.09,
-      "retail_price_aud": 94,
-      "compare_at_price_aud": 150,
+      "source_cost_aud": 49.27,
+      "retail_price_aud": 99,
+      "compare_at_price_aud": 158,
       "vendor": "Viral Carts",
       "productType": "Beauty Tech",
       "tags": [
@@ -159,56 +159,10 @@
     },
     {
       "rank": 4,
-      "title": "Wireless Neural Earbuds Pro",
-      "why_trending": "Headphones/earbuds are Shopify AU top 20 products consistently. Knock-off AirPods Pro lookalikes dominate TikTok Shop AU with strong conversion.",
-      "category": "Audio / Tech Accessories",
-      "source_cost_aud": 28.06,
-      "retail_price_aud": 56,
-      "compare_at_price_aud": 90,
-      "vendor": "Viral Carts",
-      "productType": "Audio",
-      "tags": [
-        "bestseller",
-        "staff-pick",
-        "trending"
-      ],
-      "descriptionHtml": "<p>Studio-grade sound. Active noise cancellation. AI-powered voice clarity. Wireless earbuds that deliver audiophile performance at a fraction of the brand-name price.</p><ul><li>Hybrid active noise cancellation (ANC)</li><li>40hr total battery with charging case</li><li>Bluetooth 5.3 with multi-point pairing</li><li>Wireless Qi charging case</li><li>IPX5 sweat & splash resistance</li><li>Touch controls + voice assistant</li></ul>",
-      "images": [
-        "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=800",
-        "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?w=800"
-      ],
-      "options": [
-        {
-          "name": "Colour",
-          "values": [
-            "Midnight Black",
-            "Pearl White"
-          ]
-        }
-      ],
-      "variants": [
-        {
-          "options": [
-            "Midnight Black"
-          ],
-          "sku": "NEP-BLK-AU",
-          "inventory": 100
-        },
-        {
-          "options": [
-            "Pearl White"
-          ],
-          "sku": "NEP-WHT-AU",
-          "inventory": 80
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "Interactive Pet Cat Laser Toy",
       "why_trending": "#PetTok massive community on TikTok AU. Interactive pet toys explicitly listed as hot-selling category in 2026 by Accio & Shopify AU reports.",
       "category": "Pet Supplies",
-      "source_cost_aud": 13.15,
+      "source_cost_aud": 13.18,
       "retail_price_aud": 26,
       "compare_at_price_aud": 42,
       "vendor": "Viral Carts",
@@ -241,13 +195,104 @@
       ]
     },
     {
+      "rank": 5,
+      "title": "Magnetic Levitating Moon Lamp",
+      "why_trending": "Viral TikTok aesthetic décor. Floating moon lamps rank in top 20 on Amazon.com.au Home Decor. Strong repeat purchase rate as gifts.",
+      "category": "Home Decor",
+      "source_cost_aud": 34.05,
+      "retail_price_aud": 68,
+      "compare_at_price_aud": 109,
+      "vendor": "Viral Carts",
+      "productType": "Home Decor",
+      "tags": [
+        "trending",
+        "viral-on-tiktok",
+        "bestseller"
+      ],
+      "descriptionHtml": "<p>A 3D-printed moon that floats above its wooden base using magnetic levitation, with touch-controlled warm white light. The aesthetic centrepiece every TikTok room needs.</p><ul><li>Genuine magnetic levitation (no strings, no tricks)</li><li>Touch dimmer with 3 brightness modes</li><li>Wireless power transfer to the moon</li><li>3D-printed realistic lunar surface</li><li>Walnut wood base</li><li>Spin the moon — it glows while rotating</li></ul><p><strong>Makes a perfect gift for:</strong> Birthdays, housewarmings, Valentine's Day</p>",
+      "images": [
+        "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=800",
+        "https://images.unsplash.com/photo-1518352069049-5c8c0a3d0de4?w=800"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "4 inch",
+            "6 inch"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "options": [
+            "4 inch"
+          ],
+          "sku": "LML-4IN-AU",
+          "inventory": 60
+        },
+        {
+          "options": [
+            "6 inch"
+          ],
+          "sku": "LML-6IN-AU",
+          "inventory": 40
+        }
+      ]
+    },
+    {
       "rank": 6,
+      "title": "Mini Handheld Vacuum USB-C",
+      "why_trending": "#CleanTok category dominant on TikTok AU. 'The Pink Stuff' and portable cleaning tools drove 312M+ views. Home gadgets consistently in Amazon.com.au top sellers.",
+      "category": "Home Gadgets",
+      "source_cost_aud": 21.54,
+      "retail_price_aud": 43,
+      "compare_at_price_aud": 69,
+      "vendor": "Viral Carts",
+      "productType": "Home Appliances",
+      "tags": [
+        "trending",
+        "bestseller",
+        "viral-on-tiktok"
+      ],
+      "descriptionHtml": "<p>Pocket-sized power. 9000Pa suction cleans car interiors, keyboards, pet hair, and tight corners that regular vacuums miss. As seen on #CleanTok.</p><ul><li>9000Pa strong cyclonic suction</li><li>USB-C fast charging</li><li>30-minute runtime per charge</li><li>Washable HEPA filter</li><li>3 attachments (brush, crevice, extension)</li><li>Ultra-quiet (under 60dB)</li></ul><p><strong>Perfect for:</strong> Cars, keyboards, couches, pet hair, crumbs</p>",
+      "images": [
+        "https://images.unsplash.com/photo-1558317374-067fb5f30001?w=800"
+      ],
+      "options": [
+        {
+          "name": "Colour",
+          "values": [
+            "White",
+            "Black"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "options": [
+            "White"
+          ],
+          "sku": "MHV-WHT",
+          "inventory": 95
+        },
+        {
+          "options": [
+            "Black"
+          ],
+          "sku": "MHV-BLK",
+          "inventory": 95
+        }
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Toe Spacers Foot Alignment Set",
       "why_trending": "+155% month-over-month demand in AU (Accio 2025 data). Wellness/foot-health trend. Low-cost impulse purchase aligned with holistic health trend.",
       "category": "Health & Wellness",
-      "source_cost_aud": 10.16,
-      "retail_price_aud": 20,
-      "compare_at_price_aud": 32,
+      "source_cost_aud": 10.98,
+      "retail_price_aud": 22,
+      "compare_at_price_aud": 35,
       "vendor": "Viral Carts",
       "productType": "Wellness",
       "tags": [
@@ -294,13 +339,13 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Electric Ice Roller Beauty Tool",
       "why_trending": "Ice rollers saw 'significant traction' in AU per 2025 TikTok Shop data. Beauty tools / at-home skincare devices are #1 on Amazon.com.au beauty bestsellers.",
       "category": "Beauty Tools",
-      "source_cost_aud": 15.13,
-      "retail_price_aud": 30,
-      "compare_at_price_aud": 48,
+      "source_cost_aud": 15.43,
+      "retail_price_aud": 31,
+      "compare_at_price_aud": 50,
       "vendor": "Viral Carts",
       "productType": "Beauty",
       "tags": [
@@ -347,13 +392,59 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
+      "title": "Wireless Neural Earbuds Pro",
+      "why_trending": "Headphones/earbuds are Shopify AU top 20 products consistently. Knock-off AirPods Pro lookalikes dominate TikTok Shop AU with strong conversion.",
+      "category": "Audio / Tech Accessories",
+      "source_cost_aud": 25.96,
+      "retail_price_aud": 52,
+      "compare_at_price_aud": 83,
+      "vendor": "Viral Carts",
+      "productType": "Audio",
+      "tags": [
+        "bestseller",
+        "staff-pick",
+        "trending"
+      ],
+      "descriptionHtml": "<p>Studio-grade sound. Active noise cancellation. AI-powered voice clarity. Wireless earbuds that deliver audiophile performance at a fraction of the brand-name price.</p><ul><li>Hybrid active noise cancellation (ANC)</li><li>40hr total battery with charging case</li><li>Bluetooth 5.3 with multi-point pairing</li><li>Wireless Qi charging case</li><li>IPX5 sweat & splash resistance</li><li>Touch controls + voice assistant</li></ul>",
+      "images": [
+        "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=800",
+        "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?w=800"
+      ],
+      "options": [
+        {
+          "name": "Colour",
+          "values": [
+            "Midnight Black",
+            "Pearl White"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "options": [
+            "Midnight Black"
+          ],
+          "sku": "NEP-BLK-AU",
+          "inventory": 100
+        },
+        {
+          "options": [
+            "Pearl White"
+          ],
+          "sku": "NEP-WHT-AU",
+          "inventory": 80
+        }
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Smart Posture Corrector Brace",
       "why_trending": "Wellness and home-fitness boom in AU (7.5% CAGR per Skailama 2026 report). Smart wearable posture correctors viral on #ParentTok and WFH content.",
       "category": "Health & Wellness",
-      "source_cost_aud": 16.82,
-      "retail_price_aud": 34,
-      "compare_at_price_aud": 54,
+      "source_cost_aud": 17.83,
+      "retail_price_aud": 36,
+      "compare_at_price_aud": 58,
       "vendor": "Viral Carts",
       "productType": "Wellness",
       "tags": [
@@ -379,97 +470,6 @@
           ],
           "sku": "SPCB-1",
           "inventory": 85
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Magnetic Levitating Moon Lamp",
-      "why_trending": "Viral TikTok aesthetic décor. Floating moon lamps rank in top 20 on Amazon.com.au Home Decor. Strong repeat purchase rate as gifts.",
-      "category": "Home Decor",
-      "source_cost_aud": 32.38,
-      "retail_price_aud": 65,
-      "compare_at_price_aud": 104,
-      "vendor": "Viral Carts",
-      "productType": "Home Decor",
-      "tags": [
-        "trending",
-        "viral-on-tiktok",
-        "bestseller"
-      ],
-      "descriptionHtml": "<p>A 3D-printed moon that floats above its wooden base using magnetic levitation, with touch-controlled warm white light. The aesthetic centrepiece every TikTok room needs.</p><ul><li>Genuine magnetic levitation (no strings, no tricks)</li><li>Touch dimmer with 3 brightness modes</li><li>Wireless power transfer to the moon</li><li>3D-printed realistic lunar surface</li><li>Walnut wood base</li><li>Spin the moon — it glows while rotating</li></ul><p><strong>Makes a perfect gift for:</strong> Birthdays, housewarmings, Valentine's Day</p>",
-      "images": [
-        "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=800",
-        "https://images.unsplash.com/photo-1518352069049-5c8c0a3d0de4?w=800"
-      ],
-      "options": [
-        {
-          "name": "Size",
-          "values": [
-            "4 inch",
-            "6 inch"
-          ]
-        }
-      ],
-      "variants": [
-        {
-          "options": [
-            "4 inch"
-          ],
-          "sku": "LML-4IN-AU",
-          "inventory": 60
-        },
-        {
-          "options": [
-            "6 inch"
-          ],
-          "sku": "LML-6IN-AU",
-          "inventory": 40
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Mini Handheld Vacuum USB-C",
-      "why_trending": "#CleanTok category dominant on TikTok AU. 'The Pink Stuff' and portable cleaning tools drove 312M+ views. Home gadgets consistently in Amazon.com.au top sellers.",
-      "category": "Home Gadgets",
-      "source_cost_aud": 20.15,
-      "retail_price_aud": 40,
-      "compare_at_price_aud": 64,
-      "vendor": "Viral Carts",
-      "productType": "Home Appliances",
-      "tags": [
-        "trending",
-        "bestseller",
-        "viral-on-tiktok"
-      ],
-      "descriptionHtml": "<p>Pocket-sized power. 9000Pa suction cleans car interiors, keyboards, pet hair, and tight corners that regular vacuums miss. As seen on #CleanTok.</p><ul><li>9000Pa strong cyclonic suction</li><li>USB-C fast charging</li><li>30-minute runtime per charge</li><li>Washable HEPA filter</li><li>3 attachments (brush, crevice, extension)</li><li>Ultra-quiet (under 60dB)</li></ul><p><strong>Perfect for:</strong> Cars, keyboards, couches, pet hair, crumbs</p>",
-      "images": [
-        "https://images.unsplash.com/photo-1558317374-067fb5f30001?w=800"
-      ],
-      "options": [
-        {
-          "name": "Colour",
-          "values": [
-            "White",
-            "Black"
-          ]
-        }
-      ],
-      "variants": [
-        {
-          "options": [
-            "White"
-          ],
-          "sku": "MHV-WHT",
-          "inventory": 95
-        },
-        {
-          "options": [
-            "Black"
-          ],
-          "sku": "MHV-BLK",
-          "inventory": 95
         }
       ]
     }
