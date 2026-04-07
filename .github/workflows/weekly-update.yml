@@ -19,7 +19,7 @@ jobs:
       # Forces standard actions (checkout, upload-artifact) to use Node 24, fixing the deprecation warning
       FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true 
     steps:
-      # ─────────────────────────────────────────────────────
+      # ──────────────────────────────────────────────���──────
       # STEP 1: Check out the repo
       # ─────────────────────────────────────────────────────
       - name: Check out repository
@@ -52,7 +52,7 @@ jobs:
           else
             git commit -m "chore: weekly trending products refresh ($(date +%Y-%m-%d))"
             #Pull the latest changes and rebase your commit on top of them
-            Git pull --rebase origin main
+            git pull --rebase origin main
             git push
           fi
 
