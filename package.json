@@ -1,0 +1,12 @@
+{
+  "name": "viralcarts-flow",
+  "version": "1.0.0",
+  "description": "Automated flow: top 10 Australian trending products → 50% margin → Shopify upload",
+  "main": "flow.js",
+  "scripts": {
+    "flow": "node flow.js",
+    "dry-run": "node flow.js --dry-run"
+  },
+  "engines": { "node": ">=18.0.0" },
+  "license": "MIT"
+}
