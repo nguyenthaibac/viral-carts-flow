@@ -22,9 +22,9 @@
       "title": "LED Galaxy Projector 360",
       "why_trending": "Breakout hit in Q1 2026 — $15 LED galaxy projectors drove 10K+ orders in 2 weeks from viral TikTok bedroom glow-up content. 2.5B+ #WaterTok-style views on room-ambience content.",
       "category": "Home Decor / Lighting",
-      "source_cost_aud": 34.96,
-      "retail_price_aud": 70,
-      "compare_at_price_aud": 112,
+      "source_cost_aud": 37.35,
+      "retail_price_aud": 75,
+      "compare_at_price_aud": 120,
       "vendor": "Viral Carts",
       "productType": "Home Decor",
       "tags": [
@@ -61,9 +61,9 @@
       "title": "Hydration Tracker Water Bottle 1L",
       "why_trending": "#WaterTok has 2.5B+ views. Reusable water bottle category worth $9.72B globally in 2024, projected to $15.27B by 2034. Stanley + Memobottle-style bottles are fashion accessories in AU, not fitness gear.",
       "category": "Health & Wellness",
-      "source_cost_aud": 32.25,
-      "retail_price_aud": 65,
-      "compare_at_price_aud": 104,
+      "source_cost_aud": 34.92,
+      "retail_price_aud": 70,
+      "compare_at_price_aud": 112,
       "vendor": "Viral Carts",
       "productType": "Drinkware",
       "tags": [
@@ -123,9 +123,9 @@
       "title": "LED Red Light Therapy Face Mask",
       "why_trending": "One viral LED mask garnered ~1M 5-star reviews on TikTok. Korean skincare + beauty tech is #1 growth category in AU (Shopify AU trends 2026). Amazon.com.au bestsellers consistently feature skincare tech.",
       "category": "Beauty Tech",
-      "source_cost_aud": 61.8,
-      "retail_price_aud": 124,
-      "compare_at_price_aud": 198,
+      "source_cost_aud": 64.67,
+      "retail_price_aud": 129,
+      "compare_at_price_aud": 206,
       "vendor": "Viral Carts",
       "productType": "Beauty Tech",
       "tags": [
@@ -159,56 +159,10 @@
     },
     {
       "rank": 4,
-      "title": "Wireless Neural Earbuds Pro",
-      "why_trending": "Headphones/earbuds are Shopify AU top 20 products consistently. Knock-off AirPods Pro lookalikes dominate TikTok Shop AU with strong conversion.",
-      "category": "Audio / Tech Accessories",
-      "source_cost_aud": 26.68,
-      "retail_price_aud": 53,
-      "compare_at_price_aud": 85,
-      "vendor": "Viral Carts",
-      "productType": "Audio",
-      "tags": [
-        "bestseller",
-        "staff-pick",
-        "trending"
-      ],
-      "descriptionHtml": "<p>Studio-grade sound. Active noise cancellation. AI-powered voice clarity. Wireless earbuds that deliver audiophile performance at a fraction of the brand-name price.</p><ul><li>Hybrid active noise cancellation (ANC)</li><li>40hr total battery with charging case</li><li>Bluetooth 5.3 with multi-point pairing</li><li>Wireless Qi charging case</li><li>IPX5 sweat & splash resistance</li><li>Touch controls + voice assistant</li></ul>",
-      "images": [
-        "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=800",
-        "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?w=800"
-      ],
-      "options": [
-        {
-          "name": "Colour",
-          "values": [
-            "Midnight Black",
-            "Pearl White"
-          ]
-        }
-      ],
-      "variants": [
-        {
-          "options": [
-            "Midnight Black"
-          ],
-          "sku": "NEP-BLK-AU",
-          "inventory": 100
-        },
-        {
-          "options": [
-            "Pearl White"
-          ],
-          "sku": "NEP-WHT-AU",
-          "inventory": 80
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "title": "Interactive Pet Cat Laser Toy",
       "why_trending": "#PetTok massive community on TikTok AU. Interactive pet toys explicitly listed as hot-selling category in 2026 by Accio & Shopify AU reports.",
       "category": "Pet Supplies",
-      "source_cost_aud": 12.5,
+      "source_cost_aud": 12.53,
       "retail_price_aud": 25,
       "compare_at_price_aud": 40,
       "vendor": "Viral Carts",
@@ -241,147 +195,13 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Smart Posture Corrector Brace",
-      "why_trending": "Wellness and home-fitness boom in AU (7.5% CAGR per Skailama 2026 report). Smart wearable posture correctors viral on #ParentTok and WFH content.",
-      "category": "Health & Wellness",
-      "source_cost_aud": 23.81,
-      "retail_price_aud": 48,
-      "compare_at_price_aud": 77,
-      "vendor": "Viral Carts",
-      "productType": "Wellness",
-      "tags": [
-        "trending",
-        "new-arrival"
-      ],
-      "descriptionHtml": "<p>Train better posture in 14 days. Lightweight wearable device vibrates gently when you slouch, retraining your muscles for lasting posture improvement.</p><ul><li>Smart vibration feedback when slouching</li><li>Rechargeable — 10 days per charge</li><li>Lightweight (20g) — wear under clothing</li><li>Companion app tracks progress</li><li>Suitable for desk workers and students</li><li>Unisex design</li></ul><p><strong>Perfect for:</strong> WFH professionals, students, gamers</p>",
-      "images": [
-        "https://images.unsplash.com/photo-1599058917212-d750089bc07e?w=800"
-      ],
-      "options": [
-        {
-          "name": "Title",
-          "values": [
-            "Default Title"
-          ]
-        }
-      ],
-      "variants": [
-        {
-          "options": [
-            "Default Title"
-          ],
-          "sku": "SPCB-1",
-          "inventory": 85
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Mini Handheld Vacuum USB-C",
-      "why_trending": "#CleanTok category dominant on TikTok AU. 'The Pink Stuff' and portable cleaning tools drove 312M+ views. Home gadgets consistently in Amazon.com.au top sellers.",
-      "category": "Home Gadgets",
-      "source_cost_aud": 29.09,
-      "retail_price_aud": 58,
-      "compare_at_price_aud": 93,
-      "vendor": "Viral Carts",
-      "productType": "Home Appliances",
-      "tags": [
-        "trending",
-        "bestseller",
-        "viral-on-tiktok"
-      ],
-      "descriptionHtml": "<p>Pocket-sized power. 9000Pa suction cleans car interiors, keyboards, pet hair, and tight corners that regular vacuums miss. As seen on #CleanTok.</p><ul><li>9000Pa strong cyclonic suction</li><li>USB-C fast charging</li><li>30-minute runtime per charge</li><li>Washable HEPA filter</li><li>3 attachments (brush, crevice, extension)</li><li>Ultra-quiet (under 60dB)</li></ul><p><strong>Perfect for:</strong> Cars, keyboards, couches, pet hair, crumbs</p>",
-      "images": [
-        "https://images.unsplash.com/photo-1558317374-067fb5f30001?w=800"
-      ],
-      "options": [
-        {
-          "name": "Colour",
-          "values": [
-            "White",
-            "Black"
-          ]
-        }
-      ],
-      "variants": [
-        {
-          "options": [
-            "White"
-          ],
-          "sku": "MHV-WHT",
-          "inventory": 95
-        },
-        {
-          "options": [
-            "Black"
-          ],
-          "sku": "MHV-BLK",
-          "inventory": 95
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Toe Spacers Foot Alignment Set",
-      "why_trending": "+155% month-over-month demand in AU (Accio 2025 data). Wellness/foot-health trend. Low-cost impulse purchase aligned with holistic health trend.",
-      "category": "Health & Wellness",
-      "source_cost_aud": 14,
-      "retail_price_aud": 28,
-      "compare_at_price_aud": 45,
-      "vendor": "Viral Carts",
-      "productType": "Wellness",
-      "tags": [
-        "trending",
-        "new-arrival",
-        "high-demand"
-      ],
-      "descriptionHtml": "<p>Realign your toes, relieve foot pain, and improve balance. Soft medical-grade silicone toe spacers worn for 15–30 minutes a day — the wellness essential hiding in every runner's drawer.</p><ul><li>Medical-grade flexible silicone</li><li>Corrects toe alignment naturally</li><li>Relieves bunion & hammertoe discomfort</li><li>Improves foot posture and balance</li><li>Universal fit — adjustable design</li><li>Washable & reusable</li></ul><p><strong>Recommended use:</strong> 15 minutes per day, gradually increasing to 30–60 min</p>",
-      "images": [
-        "https://images.unsplash.com/photo-1580906855509-fc5c69ac1c7e?w=800"
-      ],
-      "options": [
-        {
-          "name": "Size",
-          "values": [
-            "Small",
-            "Medium",
-            "Large"
-          ]
-        }
-      ],
-      "variants": [
-        {
-          "options": [
-            "Small"
-          ],
-          "sku": "TSP-S",
-          "inventory": 100
-        },
-        {
-          "options": [
-            "Medium"
-          ],
-          "sku": "TSP-M",
-          "inventory": 120
-        },
-        {
-          "options": [
-            "Large"
-          ],
-          "sku": "TSP-L",
-          "inventory": 90
-        }
-      ]
-    },
-    {
-      "rank": 9,
+      "rank": 5,
       "title": "Magnetic Levitating Moon Lamp",
       "why_trending": "Viral TikTok aesthetic décor. Floating moon lamps rank in top 20 on Amazon.com.au Home Decor. Strong repeat purchase rate as gifts.",
       "category": "Home Decor",
-      "source_cost_aud": 30.77,
-      "retail_price_aud": 62,
-      "compare_at_price_aud": 99,
+      "source_cost_aud": 32.36,
+      "retail_price_aud": 65,
+      "compare_at_price_aud": 104,
       "vendor": "Viral Carts",
       "productType": "Home Decor",
       "tags": [
@@ -421,13 +241,13 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 6,
       "title": "Electric Ice Roller Beauty Tool",
       "why_trending": "Ice rollers saw 'significant traction' in AU per 2025 TikTok Shop data. Beauty tools / at-home skincare devices are #1 on Amazon.com.au beauty bestsellers.",
       "category": "Beauty Tools",
-      "source_cost_aud": 20.44,
-      "retail_price_aud": 41,
-      "compare_at_price_aud": 66,
+      "source_cost_aud": 21.85,
+      "retail_price_aud": 44,
+      "compare_at_price_aud": 70,
       "vendor": "Viral Carts",
       "productType": "Beauty",
       "tags": [
@@ -469,6 +289,186 @@
             "Matte Black"
           ],
           "sku": "EIR-BLK",
+          "inventory": 90
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Smart Posture Corrector Brace",
+      "why_trending": "Wellness and home-fitness boom in AU (7.5% CAGR per Skailama 2026 report). Smart wearable posture correctors viral on #ParentTok and WFH content.",
+      "category": "Health & Wellness",
+      "source_cost_aud": 25.74,
+      "retail_price_aud": 51,
+      "compare_at_price_aud": 82,
+      "vendor": "Viral Carts",
+      "productType": "Wellness",
+      "tags": [
+        "trending",
+        "new-arrival"
+      ],
+      "descriptionHtml": "<p>Train better posture in 14 days. Lightweight wearable device vibrates gently when you slouch, retraining your muscles for lasting posture improvement.</p><ul><li>Smart vibration feedback when slouching</li><li>Rechargeable — 10 days per charge</li><li>Lightweight (20g) — wear under clothing</li><li>Companion app tracks progress</li><li>Suitable for desk workers and students</li><li>Unisex design</li></ul><p><strong>Perfect for:</strong> WFH professionals, students, gamers</p>",
+      "images": [
+        "https://images.unsplash.com/photo-1599058917212-d750089bc07e?w=800"
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "options": [
+            "Default Title"
+          ],
+          "sku": "SPCB-1",
+          "inventory": 85
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Mini Handheld Vacuum USB-C",
+      "why_trending": "#CleanTok category dominant on TikTok AU. 'The Pink Stuff' and portable cleaning tools drove 312M+ views. Home gadgets consistently in Amazon.com.au top sellers.",
+      "category": "Home Gadgets",
+      "source_cost_aud": 29.66,
+      "retail_price_aud": 59,
+      "compare_at_price_aud": 94,
+      "vendor": "Viral Carts",
+      "productType": "Home Appliances",
+      "tags": [
+        "trending",
+        "bestseller",
+        "viral-on-tiktok"
+      ],
+      "descriptionHtml": "<p>Pocket-sized power. 9000Pa suction cleans car interiors, keyboards, pet hair, and tight corners that regular vacuums miss. As seen on #CleanTok.</p><ul><li>9000Pa strong cyclonic suction</li><li>USB-C fast charging</li><li>30-minute runtime per charge</li><li>Washable HEPA filter</li><li>3 attachments (brush, crevice, extension)</li><li>Ultra-quiet (under 60dB)</li></ul><p><strong>Perfect for:</strong> Cars, keyboards, couches, pet hair, crumbs</p>",
+      "images": [
+        "https://images.unsplash.com/photo-1558317374-067fb5f30001?w=800"
+      ],
+      "options": [
+        {
+          "name": "Colour",
+          "values": [
+            "White",
+            "Black"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "options": [
+            "White"
+          ],
+          "sku": "MHV-WHT",
+          "inventory": 95
+        },
+        {
+          "options": [
+            "Black"
+          ],
+          "sku": "MHV-BLK",
+          "inventory": 95
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Wireless Neural Earbuds Pro",
+      "why_trending": "Headphones/earbuds are Shopify AU top 20 products consistently. Knock-off AirPods Pro lookalikes dominate TikTok Shop AU with strong conversion.",
+      "category": "Audio / Tech Accessories",
+      "source_cost_aud": 24.68,
+      "retail_price_aud": 49,
+      "compare_at_price_aud": 78,
+      "vendor": "Viral Carts",
+      "productType": "Audio",
+      "tags": [
+        "bestseller",
+        "staff-pick",
+        "trending"
+      ],
+      "descriptionHtml": "<p>Studio-grade sound. Active noise cancellation. AI-powered voice clarity. Wireless earbuds that deliver audiophile performance at a fraction of the brand-name price.</p><ul><li>Hybrid active noise cancellation (ANC)</li><li>40hr total battery with charging case</li><li>Bluetooth 5.3 with multi-point pairing</li><li>Wireless Qi charging case</li><li>IPX5 sweat & splash resistance</li><li>Touch controls + voice assistant</li></ul>",
+      "images": [
+        "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=800",
+        "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?w=800"
+      ],
+      "options": [
+        {
+          "name": "Colour",
+          "values": [
+            "Midnight Black",
+            "Pearl White"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "options": [
+            "Midnight Black"
+          ],
+          "sku": "NEP-BLK-AU",
+          "inventory": 100
+        },
+        {
+          "options": [
+            "Pearl White"
+          ],
+          "sku": "NEP-WHT-AU",
+          "inventory": 80
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Toe Spacers Foot Alignment Set",
+      "why_trending": "+155% month-over-month demand in AU (Accio 2025 data). Wellness/foot-health trend. Low-cost impulse purchase aligned with holistic health trend.",
+      "category": "Health & Wellness",
+      "source_cost_aud": 14.84,
+      "retail_price_aud": 30,
+      "compare_at_price_aud": 48,
+      "vendor": "Viral Carts",
+      "productType": "Wellness",
+      "tags": [
+        "trending",
+        "new-arrival",
+        "high-demand"
+      ],
+      "descriptionHtml": "<p>Realign your toes, relieve foot pain, and improve balance. Soft medical-grade silicone toe spacers worn for 15–30 minutes a day — the wellness essential hiding in every runner's drawer.</p><ul><li>Medical-grade flexible silicone</li><li>Corrects toe alignment naturally</li><li>Relieves bunion & hammertoe discomfort</li><li>Improves foot posture and balance</li><li>Universal fit — adjustable design</li><li>Washable & reusable</li></ul><p><strong>Recommended use:</strong> 15 minutes per day, gradually increasing to 30–60 min</p>",
+      "images": [
+        "https://images.unsplash.com/photo-1580906855509-fc5c69ac1c7e?w=800"
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "Small",
+            "Medium",
+            "Large"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "options": [
+            "Small"
+          ],
+          "sku": "TSP-S",
+          "inventory": 100
+        },
+        {
+          "options": [
+            "Medium"
+          ],
+          "sku": "TSP-M",
+          "inventory": 120
+        },
+        {
+          "options": [
+            "Large"
+          ],
+          "sku": "TSP-L",
           "inventory": 90
         }
       ]
